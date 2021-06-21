@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dashboard-properties-owner
-permalink: /dashboard-properties-owner.md/
+permalink: /dashboard.md/dashboard-properties-owner.md/
 ---
 # Untitled undefined type in Dashboard entity Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-tier
-permalink: /common-definitions-tier.md/
+permalink: /common.md/common-definitions-tier.md/
 ---
 # Untitled string in Common types Schema
 

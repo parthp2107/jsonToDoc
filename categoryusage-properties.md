@@ -1,7 +1,7 @@
 ---
 layout: default
 title: categoryusage-properties
-permalink: /categoryusage-properties.md/
+permalink: /categoryusage.md/categoryusage-properties.md/
 ---
 # Untitled undefined type in Usage details for an entity class Schema
 

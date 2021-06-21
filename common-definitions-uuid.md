@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-uuid
-permalink: /common-definitions-uuid.md/
+permalink: /common.md/common-definitions-uuid.md/
 ---
 # Untitled string in Common types Schema
 

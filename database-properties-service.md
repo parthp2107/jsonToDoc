@@ -1,7 +1,7 @@
 ---
 layout: default
 title: database-properties-service
-permalink: /database-properties-service.md/
+permalink: /database.md/database-properties-service.md/
 ---
 # Untitled undefined type in Database entity Schema
 

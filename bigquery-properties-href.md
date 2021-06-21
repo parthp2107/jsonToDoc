@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bigquery Property Href
-permalink: /bigquery-properties-href.md/
+permalink: /bigquery.md/bigquery-properties-href.md/
 ---
 # Untitled undefined type in BigQuery service entity Schema
 

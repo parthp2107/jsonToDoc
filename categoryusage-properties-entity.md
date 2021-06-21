@@ -1,7 +1,7 @@
 ---
 layout: default
 title: categoryusage-properties-entity
-permalink: /categoryusage-properties-entity.md/
+permalink: /categoryusage.md/categoryusage-properties-entity.md/
 ---
 # Untitled string in Usage details for an entity class Schema
 

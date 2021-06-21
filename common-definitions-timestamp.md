@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-timestamp
-permalink: /common-definitions-timestamp.md/
+permalink: /common.md/common-definitions-timestamp.md/
 ---
 # Untitled string in Common types Schema
 

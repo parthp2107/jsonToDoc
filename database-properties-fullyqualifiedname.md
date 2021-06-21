@@ -1,7 +1,7 @@
 ---
 layout: default
 title: database-properties-fullyqualifiedname
-permalink: /database-properties-fullyqualifiedname.md/
+permalink: /database.md/database-properties-fullyqualifiedname.md/
 ---
 # Untitled string in Database entity Schema
 

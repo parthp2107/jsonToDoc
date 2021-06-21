@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-timeinterval-properties-end
-permalink: /common-definitions-timeinterval-properties-end.md/
+permalink: /common.md/common-definitions-timeinterval-properties-end.md/
 ---
 # Untitled integer in Common types Schema
 

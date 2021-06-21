@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-imagelist
-permalink: /common-definitions-imagelist.md/
+permalink: /common.md/common-definitions-imagelist.md/
 ---
 # Untitled object in Common types Schema
 

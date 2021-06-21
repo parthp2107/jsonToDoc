@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bigquery Property Jdbc
-permalink: /bigquery-properties-jdbc.md/
+permalink: /bigquery.md/bigquery-properties-jdbc.md/
 ---
 # Untitled undefined type in BigQuery service entity Schema
 

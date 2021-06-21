@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-usagestats-properties-count
-permalink: /common-definitions-usagestats-properties-count.md/
+permalink: /common.md/common-definitions-usagestats-properties-count.md/
 ---
 # Untitled integer in Common types Schema
 

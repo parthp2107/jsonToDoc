@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-usagestats
-permalink: /common-definitions-usagestats.md/
+permalink: /common.md/common-definitions-usagestats.md/
 ---
 # Untitled object in Common types Schema
 

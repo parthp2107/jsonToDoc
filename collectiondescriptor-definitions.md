@@ -1,7 +1,7 @@
 ---
 layout: default
 title: collectiondescriptor-definitions
-permalink: /collectiondescriptor-definitions.md/
+permalink: /collectiondescriptor.md/collectiondescriptor-definitions.md/
 ---
 # Untitled undefined type in Schema for collection descriptor Schema
 

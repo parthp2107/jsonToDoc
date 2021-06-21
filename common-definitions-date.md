@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-date
-permalink: /common-definitions-date.md/
+permalink: /common.md/common-definitions-date.md/
 ---
 # Untitled string in Usage report for an entity Schema
 

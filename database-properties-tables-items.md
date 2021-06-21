@@ -1,7 +1,7 @@
 ---
 layout: default
 title: database-properties-tables-items
-permalink: /database-properties-tables-items.md/
+permalink: /database.md/database-properties-tables-items.md/
 ---
 # Untitled undefined type in Database entity Schema
 

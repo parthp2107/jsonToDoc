@@ -1,7 +1,7 @@
 ---
 layout: default
 title: database-properties-tables
-permalink: /database-properties-tables.md/
+permalink: /database.md/database-properties-tables.md/
 ---
 # Untitled array in Database entity Schema
 

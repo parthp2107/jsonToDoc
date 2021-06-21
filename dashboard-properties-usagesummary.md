@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dashboard-properties-usagesummary
-permalink: /dashboard-properties-usagesummary.md/
+permalink: /dashboard.md/dashboard-properties-usagesummary.md/
 ---
 # Untitled undefined type in Dashboard entity Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dashboard-properties-fullyqualifiedname
-permalink: /dashboard-properties-fullyqualifiedname.md/
+permalink: /dashboard.md/dashboard-properties-fullyqualifiedname.md/
 ---
 # Untitled string in Dashboard entity Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dashboard-properties-description
-permalink: /dashboard-properties-description.md/
+permalink: /dashboard.md/dashboard-properties-description.md/
 ---
 # Untitled string in Dashboard entity Schema
 

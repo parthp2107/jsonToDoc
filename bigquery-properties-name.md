@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bigquery Property Name
-permalink: /bigquery-properties-name.md/
+permalink: /bigquery.md/bigquery-properties-name.md/
 ---
 # Untitled string in BigQuery service entity Schema
 

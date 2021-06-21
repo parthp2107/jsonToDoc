@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-profile
-permalink: /common-definitions-profile.md/
+permalink: /common.md/common-definitions-profile.md/
 ---
 # Untitled object in Common types Schema
 

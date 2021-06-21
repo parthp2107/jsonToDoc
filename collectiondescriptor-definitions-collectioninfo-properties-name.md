@@ -1,7 +1,7 @@
 ---
 layout: default
 title: collectiondescriptor-definitions-collectioninfo-properties-name
-permalink: /collectiondescriptor-definitions-collectioninfo-properties-name.md/
+permalink: /collectiondescriptor.md/collectiondescriptor-definitions-collectioninfo-properties-name.md/
 ---
 # Untitled string in Schema for collection descriptor Schema
 

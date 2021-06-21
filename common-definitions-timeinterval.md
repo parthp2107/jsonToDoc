@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-timeinterval
-permalink: /common-definitions-timeinterval.md/
+permalink: /common.md/common-definitions-timeinterval.md/
 ---
 # Untitled object in Common types Schema
 

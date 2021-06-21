@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bots-properties-id
-permalink: /bots-properties-id.md/
+permalink: /bots.md/bots-properties-id.md/
 ---
 # Untitled undefined type in Bot entity Schema
 

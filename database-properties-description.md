@@ -1,7 +1,7 @@
 ---
 layout: default
 title: database-properties-description
-permalink: /database-properties-description.md/
+permalink: /database.md/database-properties-description.md/
 ---
 # Untitled string in Database entity Schema
 

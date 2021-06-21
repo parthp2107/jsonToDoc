@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bots-properties-href
-permalink: /bots-properties-href.md/
+permalink: /bots.md/bots-properties-href.md/
 ---
 # Untitled undefined type in Bot entity Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: database-properties-href
-permalink: /database-properties-href.md/
+permalink: /database.md/database-properties-href.md/
 ---
 # Untitled undefined type in Database entity Schema
 

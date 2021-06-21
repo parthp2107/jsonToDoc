@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-imagelist-properties-image
-permalink: /common-definitions-imagelist-properties-image.md/
+permalink: /common.md/common-definitions-imagelist-properties-image.md/
 ---
 # Untitled string in Common types Schema
 

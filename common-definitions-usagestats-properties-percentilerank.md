@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-usagestats-properties-percentilerank
-permalink: /common-definitions-usagestats-properties-percentilerank.md/
+permalink: /common.md/common-definitions-usagestats-properties-percentilerank.md/
 ---
 # Untitled number in Common types Schema
 

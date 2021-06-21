@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-usagedetails
-permalink: /common-definitions-usagedetails.md/
+permalink: /common.md/common-definitions-usagedetails.md/
 ---
 # Untitled object in Usage details of an entity Schema
 

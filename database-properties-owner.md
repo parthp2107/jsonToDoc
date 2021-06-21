@@ -1,7 +1,7 @@
 ---
 layout: default
 title: database-properties-owner
-permalink: /database-properties-owner.md/
+permalink: /database.md/database-properties-owner.md/
 ---
 # Untitled undefined type in Database entity Schema
 

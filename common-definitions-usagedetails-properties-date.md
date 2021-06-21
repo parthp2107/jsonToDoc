@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-usagedetails-properties-date
-permalink: /common-definitions-usagedetails-properties-date.md/
+permalink: /common.md/common-definitions-usagedetails-properties-date.md/
 ---
 # Untitled string in Common types Schema
 
