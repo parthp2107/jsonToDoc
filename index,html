@@ -1,0 +1,271 @@
+<html>
+   <head>
+      <link rel="stylesheet" id="theme" href="chrome-extension://febilkbfcbhebfnokafefeacimjdckgl/theme/Clearness.css">
+   </head>
+   <body>
+      <h1 id="jdbc-connection-schema">JDBC connection Schema</h1>
+      <pre><code class="language-txt">https://streaminlinedata.ai/type/jdbcConnection.json</code></pre>
+      <p>JDBC connection information used for connecting to a database system</p>
+      <blockquote>
+         <p>JDBC connection information</p>
+      </blockquote>
+      <table>
+         <thead>
+            <tr>
+               <th align="left">Abstract</th>
+               <th align="left">Extensible</th>
+               <th align="left">Status</th>
+               <th align="left">Identifiable</th>
+               <th align="left">Custom Properties</th>
+               <th align="left">Additional Properties</th>
+               <th align="left">Access Restrictions</th>
+               <th align="left">Defined In</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td align="left">Can be instantiated</td>
+               <td align="left">Yes</td>
+               <td align="left">Unknown status</td>
+               <td align="left">No</td>
+               <td align="left">Forbidden</td>
+               <td align="left">Allowed</td>
+               <td align="left">none</td>
+               <td align="left"><a title="open original schema" href="jdbcConnection.md">jdbcConnection.json</a></td>
+            </tr>
+         </tbody>
+      </table>
+      <h2 id="jdbc-connection-type">JDBC connection Type</h2>
+      <p><code>object</code> (<a href="jdbcconnection.md">JDBC connection</a>)</p>
+      <h1 id="jdbc-connection-properties">JDBC connection Properties</h1>
+      <table>
+         <thead>
+            <tr>
+               <th align="left">Property</th>
+               <th align="left">Type</th>
+               <th align="left">Required</th>
+               <th align="left">Nullable</th>
+               <th align="left">Defined by</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td align="left"><a href="#driverclass">driverClass</a></td>
+               <td align="left"><code>string</code></td>
+               <td align="left">Required</td>
+               <td align="left">cannot be null</td>
+               <td align="left"><a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/driverClass" href="jdbcconnection-properties-driverclass.md">JDBC connection</a></td>
+            </tr>
+            <tr>
+               <td align="left"><a href="#connectionurl">connectionUrl</a></td>
+               <td align="left"><code>string</code></td>
+               <td align="left">Required</td>
+               <td align="left">cannot be null</td>
+               <td align="left"><a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/connectionUrl" href="jdbcconnection-properties-connectionurl.md">JDBC connection</a></td>
+            </tr>
+            <tr>
+               <td align="left"><a href="#username">userName</a></td>
+               <td align="left"><code>string</code></td>
+               <td align="left">Required</td>
+               <td align="left">cannot be null</td>
+               <td align="left"><a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/userName" href="jdbcconnection-properties-username.md">JDBC connection</a></td>
+            </tr>
+            <tr>
+               <td align="left"><a href="#password">password</a></td>
+               <td align="left"><code>string</code></td>
+               <td align="left">Required</td>
+               <td align="left">cannot be null</td>
+               <td align="left"><a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/password" href="jdbcconnection-properties-password.md">JDBC connection</a></td>
+            </tr>
+         </tbody>
+      </table>
+      <h2 id="driverclass">driverClass</h2>
+      <blockquote>
+         <p>Type used for JDBC driver class</p>
+      </blockquote>
+      <p><code>driverClass</code></p>
+      <ul>
+         <li>
+            <p>  is required</p>
+         </li>
+         <li>
+            <p>  Type: <code>string</code></p>
+         </li>
+         <li>
+            <p>  cannot be null</p>
+         </li>
+         <li>
+            <p>  defined in: <a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/driverClass" href="jdbcconnection-properties-driverclass.md">JDBC connection</a></p>
+         </li>
+      </ul>
+      <h3 id="driverclass-type">driverClass Type</h3>
+      <p><code>string</code></p>
+      <h2 id="connectionurl">connectionUrl</h2>
+      <blockquote>
+         <p>Type used for JDBC connection URL</p>
+      </blockquote>
+      <p><code>connectionUrl</code></p>
+      <ul>
+         <li>
+            <p>  is required</p>
+         </li>
+         <li>
+            <p>  Type: <code>string</code></p>
+         </li>
+         <li>
+            <p>  cannot be null</p>
+         </li>
+         <li>
+            <p>  defined in: <a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/connectionUrl" href="jdbcconnection-properties-connectionurl.md">JDBC connection</a></p>
+         </li>
+      </ul>
+      <h3 id="connectionurl-type">connectionUrl Type</h3>
+      <p><code>string</code></p>
+      <h3 id="connectionurl-constraints">connectionUrl Constraints</h3>
+      <p><strong>URI</strong>: the string must be a URI, according to <a title="check the specification" href="https://tools.ietf.org/html/rfc3986">RFC 3986</a></p>
+      <h2 id="username">userName</h2>
+      <p>Login user name</p>
+      <p><code>userName</code></p>
+      <ul>
+         <li>
+            <p>  is required</p>
+         </li>
+         <li>
+            <p>  Type: <code>string</code></p>
+         </li>
+         <li>
+            <p>  cannot be null</p>
+         </li>
+         <li>
+            <p>  defined in: <a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/userName" href="jdbcconnection-properties-username.md">JDBC connection</a></p>
+         </li>
+      </ul>
+      <h3 id="username-type">userName Type</h3>
+      <p><code>string</code></p>
+      <h2 id="password">password</h2>
+      <p>Login password</p>
+      <p><code>password</code></p>
+      <ul>
+         <li>
+            <p>  is required</p>
+         </li>
+         <li>
+            <p>  Type: <code>string</code></p>
+         </li>
+         <li>
+            <p>  cannot be null</p>
+         </li>
+         <li>
+            <p>  defined in: <a title="https://streaminlinedata.ai/type/jdbcConnection.json#/properties/password" href="jdbcconnection-properties-password.md">JDBC connection</a></p>
+         </li>
+      </ul>
+      <h3 id="password-type">password Type</h3>
+      <p><code>string</code></p>
+      <h1 id="jdbc-connection-definitions">JDBC connection Definitions</h1>
+      <h2 id="definitions-group-driverclass">Definitions group driverClass</h2>
+      <p>Reference this group by using</p>
+      <pre><code class="language-json">{<span class="hljs-attr">"$ref"</span>:<span class="hljs-string">"https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/driverClass"</span>}</code></pre>
+      <table>
+         <thead>
+            <tr>
+               <th align="left">Property</th>
+               <th align="left">Type</th>
+               <th align="left">Required</th>
+               <th align="left">Nullable</th>
+               <th align="left">Defined by</th>
+            </tr>
+         </thead>
+      </table>
+      <h2 id="definitions-group-connectionurl">Definitions group connectionUrl</h2>
+      <p>Reference this group by using</p>
+      <pre><code class="language-json">{<span class="hljs-attr">"$ref"</span>:<span class="hljs-string">"https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/connectionUrl"</span>}</code></pre>
+      <table>
+         <thead>
+            <tr>
+               <th align="left">Property</th>
+               <th align="left">Type</th>
+               <th align="left">Required</th>
+               <th align="left">Nullable</th>
+               <th align="left">Defined by</th>
+            </tr>
+         </thead>
+      </table>
+      <h2 id="definitions-group-jdbcinfo">Definitions group jdbcInfo</h2>
+      <p>Reference this group by using</p>
+      <pre><code class="language-json">{<span class="hljs-attr">"$ref"</span>:<span class="hljs-string">"https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo"</span>}</code></pre>
+      <table>
+         <thead>
+            <tr>
+               <th align="left">Property</th>
+               <th align="left">Type</th>
+               <th align="left">Required</th>
+               <th align="left">Nullable</th>
+               <th align="left">Defined by</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td align="left"><a href="#driverclass-1">driverClass</a></td>
+               <td align="left"><code>string</code></td>
+               <td align="left">Required</td>
+               <td align="left">cannot be null</td>
+               <td align="left"><a title="https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/driverClass" href="jdbcconnection-definitions-jdbcinfo-properties-driverclass.md">JDBC connection</a></td>
+            </tr>
+            <tr>
+               <td align="left"><a href="#connectionurl-1">connectionUrl</a></td>
+               <td align="left"><code>string</code></td>
+               <td align="left">Required</td>
+               <td align="left">cannot be null</td>
+               <td align="left"><a title="https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/connectionUrl" href="jdbcconnection-definitions-jdbcinfo-properties-connectionurl.md">JDBC connection</a></td>
+            </tr>
+         </tbody>
+      </table>
+      <h3 id="driverclass-1">driverClass</h3>
+      <blockquote>
+         <p>Type used for JDBC driver class</p>
+      </blockquote>
+      <p><code>driverClass</code></p>
+      <ul>
+         <li>
+            <p>  is required</p>
+         </li>
+         <li>
+            <p>  Type: <code>string</code></p>
+         </li>
+         <li>
+            <p>  cannot be null</p>
+         </li>
+         <li>
+            <p>  defined in: <a title="https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/driverClass" href="jdbcconnection-definitions-jdbcinfo-properties-driverclass.md">JDBC connection</a></p>
+         </li>
+      </ul>
+      <h4 id="driverclass-type-1">driverClass Type</h4>
+      <p><code>string</code></p>
+      <h4 id="driverclass-default-value">driverClass Default Value</h4>
+      <p>The default value is:</p>
+      <pre><code class="language-json"><span class="hljs-string">"com.amazon.redshift.jdbc42.Driver"</span></code></pre>
+      <h3 id="connectionurl-1">connectionUrl</h3>
+      <blockquote>
+         <p>Type used for JDBC connection URL</p>
+      </blockquote>
+      <p><code>connectionUrl</code></p>
+      <ul>
+         <li>
+            <p>  is required</p>
+         </li>
+         <li>
+            <p>  Type: <code>string</code></p>
+         </li>
+         <li>
+            <p>  cannot be null</p>
+         </li>
+         <li>
+            <p>  defined in: <a title="https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/connectionUrl" href="jdbcconnection-definitions-jdbcinfo-properties-connectionurl.md">JDBC connection</a></p>
+         </li>
+      </ul>
+      <h4 id="connectionurl-type-1">connectionUrl Type</h4>
+      <p><code>string</code></p>
+      <h4 id="connectionurl-constraints-1">connectionUrl Constraints</h4>
+      <p><strong>URI</strong>: the string must be a URI, according to <a title="check the specification" href="https://tools.ietf.org/html/rfc3986">RFC 3986</a></p>
+   </body>
+</html>
