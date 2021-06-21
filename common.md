@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Common Schema
+permalink: /common/
 ---
 
 ```txt
