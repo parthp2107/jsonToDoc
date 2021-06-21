@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-usagestats-properties-count
+permalink: /common-definitions-usagestats-properties-count.md/
 ---
 # Untitled integer in Common types Schema
 

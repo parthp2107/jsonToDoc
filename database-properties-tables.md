@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: database-properties-tables
+permalink: /database-properties-tables.md/
 ---
 # Untitled array in Database entity Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-tier
+permalink: /common-definitions-tier.md/
 ---
 # Untitled string in Common types Schema
 

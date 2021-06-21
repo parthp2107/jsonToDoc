@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-timeinterval-properties-start
+permalink: /common-definitions-timeinterval-properties-start.md/
 ---
 # Untitled integer in Common types Schema
 

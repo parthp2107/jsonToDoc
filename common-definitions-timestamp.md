@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-timestamp
+permalink: /common-definitions-timestamp.md/
 ---
 # Untitled string in Common types Schema
 

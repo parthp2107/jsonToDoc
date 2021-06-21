@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-imagelist-properties-image512
+permalink: /common-definitions-imagelist-properties-image512.md/
 ---
 # Untitled string in Common types Schema
 

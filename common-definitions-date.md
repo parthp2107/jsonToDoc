@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-date
+permalink: /common-definitions-date.md/
 ---
 # Untitled string in Usage report for an entity Schema
 

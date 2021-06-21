@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: categoryusage-properties-usage
+permalink: /categoryusage-properties-usage.md/
 ---
 # Untitled array in Usage details for an entity class Schema
 

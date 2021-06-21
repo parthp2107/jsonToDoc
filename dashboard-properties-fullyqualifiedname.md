@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: dashboard-properties-fullyqualifiedname
+permalink: /dashboard-properties-fullyqualifiedname.md/
 ---
 # Untitled string in Dashboard entity Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: database
+permalink: /database.md/
 ---
 # Database entity Schema
 

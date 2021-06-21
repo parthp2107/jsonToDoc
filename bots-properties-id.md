@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: bots-properties-id
+permalink: /bots-properties-id.md/
 ---
 # Untitled undefined type in Bot entity Schema
 

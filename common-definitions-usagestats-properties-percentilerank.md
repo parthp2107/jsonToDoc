@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-usagestats-properties-percentilerank
+permalink: /common-definitions-usagestats-properties-percentilerank.md/
 ---
 # Untitled number in Common types Schema
 

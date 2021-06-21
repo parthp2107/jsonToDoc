@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: collectiondescriptor-definitions
+permalink: /collectiondescriptor-definitions.md/
 ---
 # Untitled undefined type in Schema for collection descriptor Schema
 

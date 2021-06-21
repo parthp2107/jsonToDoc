@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: common-definitions-entityreference
+permalink: /common-definitions-entityreference.md/
 ---
 # Untitled object in Usage details of an entity Schema
 
