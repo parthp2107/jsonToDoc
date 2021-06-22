@@ -1,7 +1,7 @@
 ---
 layout: default
 title: common-definitions-entityreference-properties-type
-permalink: /common.md/common-definitions-entityreference-properties-type.md/
+permalink: ./common-definitions-entityreference-properties-type.md
 ---
 # Untitled string in Common types Schema
 
