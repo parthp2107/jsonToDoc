@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: pipeline-properties-fullyqualifiedname
+permalink: /pipeline.md/pipeline-properties-fullyqualifiedname.md/
 ---
 # Untitled string in Pipeline entity Schema
 

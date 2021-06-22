@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: mysql-properties-description
+permalink: /mysql.md/mysql-properties-description.md/
 ---
 # Untitled string in MySQL service entity Schema
 

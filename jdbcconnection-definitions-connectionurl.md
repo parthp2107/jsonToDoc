@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: jdbcconnection-definitions-connectionurl
+permalink: /jdbcconnection.md/jdbcconnection-definitions-connectionurl.md/
 ---
 # Untitled string in JDBC connection Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: metrics-properties-fullyqualifiedname
+permalink: /metrics.md/metrics-properties-fullyqualifiedname.md/
 ---
 # Untitled string in Metrics entity Schema
 

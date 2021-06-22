@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: metrics
+permalink: /metrics.md/
 ---
 # Metrics entity Schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: metrics-properties-href
+permalink: /metrics.md/metrics-properties-href.md/
 ---
 # Untitled undefined type in Metrics entity Schema
 

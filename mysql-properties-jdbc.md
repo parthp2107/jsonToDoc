@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: mysql-properties-jdbc
+permalink: /mysql.md/mysql-properties-jdbc.md/
 ---
 # Untitled undefined type in MySQL service entity Schema
 

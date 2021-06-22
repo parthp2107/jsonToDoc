@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: pipeline-properties-href
+permalink: /pipeline.md/pipeline-properties-href.md/
 ---
 # Untitled undefined type in Pipeline entity Schema
 

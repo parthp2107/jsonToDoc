@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: entityusage
+permalink: /entityusage.md/
 ---
 # Usage details of an entity Schema
 

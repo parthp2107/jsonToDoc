@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bigquery Property Id
-permalink: /bigquery-properties-id.md/
+title: jdbcconnection-definitions-driverclass
+permalink: /jdbcconnection.md/jdbcconnection-definitions-driverclass.md/
 ---
 # Untitled string in JDBC connection Schema
 
