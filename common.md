@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Common Schema
+permalink: /common.md/
 ---
 
 ```txt
